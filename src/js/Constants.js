@@ -1655,7 +1655,7 @@ axs.constants.TAG_TO_IMPLICIT_SEMANTIC_INFO = {
         allowed: ['*']
     }],
     'TR': [{
-        role: '',
+        role: 'row',
         allowed: ['*']
     }],
     'TRACK': [{
